@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\002_437163361_346182581771345_3467169646383301019_n.txt",
+      "PackagePath": "staticwebassets\\uploads\\002_437163361_346182581771345_3467169646383301019_n.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\004_435799862_453720443674502_2636421836543177591_n.txt",
+      "PackagePath": "staticwebassets\\uploads\\004_435799862_453720443674502_2636421836543177591_n.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\315b92aa-036a-4e14-8c81-923f4c941dda.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\315b92aa-036a-4e14-8c81-923f4c941dda.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\4d3f3351-6a0d-4ed4-bc80-1be754dc45ed.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\4d3f3351-6a0d-4ed4-bc80-1be754dc45ed.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\IMG_20240708_082532_312~2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\IMG_20240708_082532_312~2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\Ministry of Higher Education & scientific research.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Ministry of Higher Education & scientific research.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\Recu print - Inscription universitaire en ligne.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Recu print - Inscription universitaire en ligne.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\ScrumFundamentalsCertified-JacemBenAhmed-1029747.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ScrumFundamentalsCertified-JacemBenAhmed-1029747.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\TCPC2023.pdf",
+      "PackagePath": "staticwebassets\\uploads\\TCPC2023.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\TD3 (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\TD3 (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\Tickets - International Odoo Programming Contest (26 mars 2024 à 19_30_00) - Jacem Ben Ahmed.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Tickets - International Odoo Programming Contest (26 mars 2024 à 19_30_00) - Jacem Ben Ahmed.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\az-it-offre-de-stage-commercial-30-novembre-2023.pdf",
+      "PackagePath": "staticwebassets\\uploads\\az-it-offre-de-stage-commercial-30-novembre-2023.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\cahierdecharge (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\cahierdecharge (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\dd4f273b-ebb8-459c-abc2-4ef7298cc00d.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\dd4f273b-ebb8-459c-abc2-4ef7298cc00d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\download (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\download (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\guide_stages.pdf",
+      "PackagePath": "staticwebassets\\uploads\\guide_stages.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\sample.pdf",
+      "PackagePath": "staticwebassets\\uploads\\sample.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\GestBurOrdAPI\\GestBurOrdAPI\\wwwroot\\uploads\\tpPython.rar",
+      "PackagePath": "staticwebassets\\uploads\\tpPython.rar"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestBurOrdAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GestBurOrdAPI.props",
+      "PackagePath": "build\\GestBurOrdAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GestBurOrdAPI.props",
+      "PackagePath": "buildMultiTargeting\\GestBurOrdAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GestBurOrdAPI.props",
+      "PackagePath": "buildTransitive\\GestBurOrdAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
