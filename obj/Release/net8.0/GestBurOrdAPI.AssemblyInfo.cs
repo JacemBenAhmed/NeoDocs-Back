@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestBurOrdAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04724625fed7593fe2dd3e702d4307099de7251f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestBurOrdAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestBurOrdAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
